@@ -1,1 +1,1 @@
-# Linear Regression from Scratch
+# K-Nearest Neighbours from Scratch
