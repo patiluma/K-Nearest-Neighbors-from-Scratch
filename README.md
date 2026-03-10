@@ -1,1 +1,1 @@
-# K-Nearest Neighbours from Scratch
+# K-Means Clustering from Scratch
